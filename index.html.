@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pablo Neruda: Vida, Obra y Legado</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Pablo Neruda</h1>
+            <ul>
+                <li><a href="#vida">Vida</a></li>
+                <li><a href="#obras">Obras</a></li>
+                <li><a href="#logros">Logros</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero">
+            <h2>"De amor solamente tengo mis manos."</h2>
+            <p>Explora la vida y el profundo legado del poeta chileno, ganador del Premio Nobel de Literatura.</p>
+        </section>
+
+        <section id="vida">
+            <h2>Vida: De Ricardo Eliécer Neftalí Reyes Basoalto a Pablo Neruda</h2>
+            <p>Nacido en Parral, Chile, en 1904. Su vida estuvo marcada por la poesía, el activismo político y la diplomacia. Adopta el seudónimo de Pablo Neruda en su juventud para evitar conflictos familiares...</p>
+        </section>
+
+        <section id="obras">
+            <h2>Obras Inmortales</h2>
+            <div class="card-container">
+                <article class="obra-card">
+                    <h3>Veinte poemas de amor y una canción desesperada (1924)</h3>
+                    <p>Uno de sus trabajos más conocidos, consolidando su reputación como poeta de la pasión.</p>
+                </article>
+                <article class="obra-card">
+                    <h3>Canto General (1950)</h3>
+                    <p>Una épica de la historia y la naturaleza de Latinoamérica, con un fuerte compromiso político.</p>
+                </article>
+                </div>
+        </section>
+
+        <section id="logros">
+            <h2>Premios y Reconocimientos</h2>
+            <ul>
+                <li>🥇 **Premio Nobel de Literatura (1971):** Por una poesía que con la fuerza de un clima y destino da vida a un continente.</li>
+                <li>🏅 **Premio Nacional de Literatura de Chile (1945).**</li>
+                <li>📜 **Varios cargos diplomáticos,** incluyendo embajador en Francia.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Legado de Pablo Neruda. Diseño Profesional Web.</p>
+    </footer>
+</body>
+</html>
